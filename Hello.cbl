@@ -1,7 +1,7 @@
       ******************************************************************
-      * Author:
-      * Date:
-      * Purpose:
+      * Author: Bryan Tan
+      * Date: 6/3/2023
+      * Purpose: Hello World
       * Tectonics: cobc
       ******************************************************************
        IDENTIFICATION DIVISION.
